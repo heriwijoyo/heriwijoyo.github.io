@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Your Name"
+  name: "Heri Wijoyo"
   text: "Senior Backend Architect"
   tagline: Building deterministic, high-availability distributed systems.
   actions:
@@ -11,7 +11,7 @@ hero:
       link: /architecture/cloudflare-edge
     - theme: alt
       text: View GitHub
-      link: https://github.com/yourusername
+      link: https://github.com/heriwijoyo
 
 features:
   - title: Edge Computing

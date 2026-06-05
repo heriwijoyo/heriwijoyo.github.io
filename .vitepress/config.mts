@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Your Name",
+  title: "Heri Wijoyo",
   description: "Senior Backend Architect Portfolio",
   
   // This enables the clean, modern default theme
@@ -45,8 +45,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername' },
-      { icon: 'linkedin', link: 'https://linkedin.com/in/yourusername' }
+      { icon: 'github', link: 'https://github.com/heriwijoyo' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/heriwijoyo' }
     ]
   }
 })
